@@ -1,0 +1,197 @@
+#navigation-container {
+    background-color: black;
+    color: white;
+    height: 34px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+span {
+    padding: 15px;
+    display: inline-block;
+    margin-top: -7px;
+    font-size: 13px;
+}
+
+#image {
+    text-align: center;
+}
+
+#cover-txt-container {
+    text-align: center;
+    margin-top: -70px;
+    color: white;
+}
+
+#margin {
+   font-size: 14px; 
+}
+
+#font {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#band-info-container {
+    margin-top: 70px;
+    text-align: center;
+    padding: 0 30%;
+}
+
+#band-description {
+    text-align: left;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#band-margin {
+    margin-bottom: 15px;
+}
+
+#album-cover {
+    width: 150px;
+    height: 150px;
+}
+
+#album-cover-container {
+    display: inline-block;
+    margin: 50px;
+}
+
+#album-covers {
+    margin-top: 40px;
+}
+
+#album-cover2 {
+    width: 150px;
+    height: 150px;
+}
+
+#album-cover-container2 {
+    display: inline-block;
+    margin: 50px;
+}
+
+#album-cover-container3 {
+    display: inline-block;
+    margin: 50px;
+}
+#album-cover3 {
+    width: 150px;
+    height: 150px;
+}
+
+#tour-dates-container {
+    background-color: black;
+    margin: 50px 15%;
+    color: white;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+#tickets {
+    margin-top: 15px;
+    color: lightgray;
+    margin-bottom: 15px;
+}
+
+#month-avilability {
+   color: black;
+   background-color: white;
+   text-align: left;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 38px;
+    padding-top: 3px;
+    margin: 0 300px;
+}
+
+#sold-out {
+    background-color: tomato;
+    color: white;
+    padding: 3px;
+}
+
+#month-avilability2 {
+    color: black;
+   background-color: white;
+   text-align: left;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 38px;
+    padding-top: 3px;
+    margin: 0 300px;
+    border: 1px solid lightgray;
+}
+
+#sold-out2 {
+    background-color: tomato;
+    color: white;
+    padding: 3px;
+}
+
+#month-avilability3 {
+    color: black;
+    background-color: white;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     height: 38px;
+     padding-top: 3px;
+     margin: 0 300px;
+}
+
+
+#avilable {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 20px;
+   width: 20px;
+   padding: 3px;
+   text-align: center;
+   border-radius: 999999px;
+   margin-left: 80%;
+}
+
+#city-image {
+    width: 150px;
+}
+
+#city-item {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+    font-size: 14px;
+    margin: 5px;
+}
+
+#paragraph {
+    padding: 10px;
+}
+
+#btn-buy {
+    background-color: black;
+    border-radius: 0;
+    color: white;
+    border: 0;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#paragraph-margin {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#cities-container {
+    margin-top: 35px;
+}
+
+
+    
+

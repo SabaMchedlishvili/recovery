@@ -1,0 +1,429 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url(images/Illustration.png),
+     url(images/union.svg),
+     url(images/Rocket.png),
+      url(images/Subtract\ .png),
+      url(images/airplane.png),
+      url(images/Group\ 3.png),
+      url(images/cloud.png),
+      url(images/rocket\ N2.png),
+      url(images/orange.png),
+      url(images/last\ background.png);
+    background-repeat: no-repeat;
+    background-position: top right,
+     center 1428.96px,
+     right 150px top 3549px,
+     center 3131px,
+     right 2782.59px,
+     center 3131px,
+     left 45px top 4930px,
+     right -13px top 4860.34px,
+     center 4429px,
+     center 5882px;
+}
+
+
+#nav-container {
+    display: inline-block;
+    vertical-align: middle;
+    width: 88%;
+    text-align: right;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+
+a {
+    padding: 15px;
+}
+
+
+.anchor-container {
+    margin-right: 40px;
+    font-family: 'inter';
+    font-weight: 500;
+}
+
+#nav-logo {
+    vertical-align: middle;
+}
+
+#nav {
+    padding: 30px 20px;
+}
+
+
+#nav-anchor {
+    font-family: 'inter';
+    font-weight: 500;
+}
+
+#nav-button {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-radius: 52px;
+    padding: 13px 40px;
+    border: none;
+    font-size: 13px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+
+#about-us-container {
+    width: 553px;
+    margin: 344px 173px;
+}
+
+
+h1 {
+    font-size: 48px;
+    color: #191B21;
+    margin: 15px;
+}
+
+
+#aboutus-p-container {
+    font-size: 18px;
+    color: #2278D4;
+    font-weight: 600;
+}
+
+
+#paragraph-cont {
+    color: rgb(137, 148, 158);
+}
+
+
+#button {
+    background-color: #22A75D;
+    color: #FFFFFF;
+    border-radius: 52px;
+    padding: 15px 25px;
+    margin-top: 25px;
+    border: none;
+    font-size: 12px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+
+#user-types-container {
+    text-align: center;
+}
+
+
+.user-type-box {
+    background-color: #F2F0F4F2;
+    border-radius: 25px;
+    display: inline-block;
+    width: 35%;
+    text-align: center;
+    padding: 70px 50px 0 50px;
+}
+
+#user-color {
+    color: #2278D4;
+    text-decoration: underline;
+}
+
+
+#paragraph-description {
+    font-size: 36px;
+    color: #191B21;
+    padding-bottom: 25px;
+}
+
+
+#user-color2 {
+    color: #22A75D;
+    text-decoration: underline;
+}
+
+
+#paragraph-description2 {
+    font-size: 36px;
+    color: #191B21;
+    padding-bottom: 25px;
+}
+
+
+#second-box-container {
+    padding: 50px 50px 0 50px;
+}
+
+
+.paragraph-color-conainer {
+    line-height: 20px;
+    color: rgb(137, 148, 158);
+    padding-bottom: 60px;
+    font-weight: 300;
+}
+
+
+#difference-container {
+    text-align: center;
+    margin-top: 120px;
+}
+
+#difference-logo{
+    vertical-align: top;
+}
+
+
+#difference-header {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+    color: #F7F5F9;
+    font-size: 48px;
+    text-align: left;
+    width: 356px;
+}
+
+
+#difference-desc-container {
+    display: inline-block;
+    width: 600px;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 90px;
+}
+
+
+#desc-paragraph-container {
+    margin-bottom: 25px;
+    color: #b7bec9;
+    font-size: 18px;
+}
+
+
+#desc-paragraph-container2 {
+    color: #656c6e;
+    font-size: 18px;
+}
+
+
+#paragraph-span {
+    color: #ffffffa1;
+}
+
+
+#paragraph-span2 {
+    color: #FFFFFFa1;
+}
+
+
+#text-info {
+    color: #656c6e;
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'inter';
+    font-weight: 500;
+}
+
+p {
+    font-family: 'inter';
+}
+
+.scrollable-text {
+    overflow-y: scroll; 
+    height: 215px;
+    color: #b3acacc4;
+    font-weight: 300;
+}
+
+span {
+    font-weight: 500;
+}
+
+.offering__container {
+    margin-top: 500px;
+    color: #191b21cb;
+    text-align: center;
+}
+
+.offering__item p {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+}
+
+.offering__number {
+    color: #2278D4;
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 21px;
+}
+
+.offering__column {
+    display: inline-block;
+    text-align: left;
+    margin-right: 61px;
+    vertical-align: top;
+}
+
+.is-coming__container {
+    width: 644px;
+    margin-left: 140px;
+    margin-top: 532px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #191B21;
+    margin-bottom: 20px;
+}
+
+.is-coming__span {
+    color: #191B21;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.is-coming__paragraph {
+    line-height: 24px;
+    color: #757474;
+    font-weight: 300;
+}
+
+.presale-details__container {
+    margin-top: 550px;
+    text-align: center;
+}
+
+.presale--item {
+    width: 511px;
+    height: 585px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h4 {
+    font-size: 48px;
+    color: #F7F5F9;
+    margin-bottom: 50px;
+}
+
+#presale-phase__container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.middle {
+    margin-top: 50px;
+}
+
+.presale__paragraph {
+    font-family: 'inter';
+    font-size: 32px;
+    font-weight: bold;
+    color: #191B21;
+    margin-top: 170px;
+}
+
+.dates {
+    margin-bottom: 70px;
+}
+
+.presale--item p {
+    line-height: 40px;
+    font-weight: 600;
+}
+h5 {
+    color: #F7F5F9;
+    font-size: 36px;
+    line-height: 54px;
+    margin-top: 30px;
+}
+
+.how-to-buy__paragraph {
+    font-weight: 500;
+    padding: 20px;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+#footer-links__container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    color: #FFFFFF;
+    margin-top: 250px;
+    font-weight: 700;
+    font-family: 'inter';
+    line-height: 19.2px;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+.footer__span {
+    margin-top: 14px;
+    color: #4b4949;
+}
+
+#footer-image {
+    margin-top: 120px;
+    margin-left: 173px;
+}
+.footer__icons {
+    margin-top: -33px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+footer {
+    padding-bottom: 167px;
+}
+
+.icons {
+    border-radius: 25px;
+    padding: 10px;
+    border: 2px solid #46454533;
+}
+
+#copyright__container {
+    text-align: right;
+    margin-right: 160px;
+    color: #ffffffe3;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+#copyright__paragraph  {
+    color: #ffffff6b;
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+#oleg-image {
+    padding: 0 7px;
+    padding-top: 3px;
+}
+
+
+
+
